@@ -1,0 +1,54 @@
+
+---Downloaded files---
+The import files for: Main-Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/alotholding_wp
+Data file = C:\wamp64\www\alotholding_wp/wp-content/uploads/2023/12/demo-content-import-file_2023-12-14__07-23-20.xml
+Widget file = C:\wamp64\www\alotholding_wp/wp-content/uploads/2023/12/demo-widgets-import-file_2023-12-14__07-23-20.json
+Customizer file = not defined!
+Redux files:
+ttm_business_options -> C:\wamp64\www\alotholding_wp/wp-content/themes/ttm-business/inc/demo-content/theme-options.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[ERROR] Failed to import "svg1" (Media)
+[ERROR] Failed to import "svg2" (Media)
+[ERROR] Failed to import "svg3" (Media)
+[ERROR] Failed to import "svg4" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+
+
+---Importing widgets---
+Blog Sidebar Widget Area : 
+
+Block - No Title - Imported
+Categories - Categories - Imported
+Recent Posts - Recent Post - Imported
+
+footer-column-1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - About TTM business - Imported to Inactive
+Block - No Title - Imported to Inactive
+
+footer-column-2 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Navigation Menu - Quick Links - Imported to Inactive
+
+footer-column-3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - Contact Us - Imported to Inactive
+
+
+
+---Importing Redux settings---
+The Redux plugin is not activated, so the Redux import was skipped!
+
+---ocdi/after_import---
+

@@ -1,0 +1,43 @@
+
+---Upload files---
+Customizer file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://themetechmount.com/ttm-business/free/demo1
+Data file = /home/themetech/ftp/public_html/themetech_com/ttm-business/free/wp-content/uploads/sites/2/2023/08/ttmbusiness.WordPress.2023-08-12.xml
+Widget file = /home/themetech/ftp/public_html/themetech_com/ttm-business/free/wp-content/uploads/sites/2/2023/08/themetechmount.com-ttm-business-demo1-widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar Widget Area : 
+
+Block - No Title - Imported
+Categories - Categories - Imported
+Recent Posts - Recent Post - Imported
+
+Footer - 1st Widget Area  : 
+
+Custom HTML - About TTM Business Theme - Imported
+Block - No Title - Imported
+
+Footer - 2nd Widget Area : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer - 3rd Widget Area : 
+
+Custom HTML - Contact Us - Imported
+
+

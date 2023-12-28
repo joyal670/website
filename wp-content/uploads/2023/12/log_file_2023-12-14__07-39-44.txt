@@ -1,0 +1,40 @@
+
+---Downloaded files---
+The import files for: Main-Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/alotholding_wp
+Data file = C:\wamp64\www\alotholding_wp/wp-content/uploads/2023/12/demo-content-import-file_2023-12-14__07-39-44.xml
+Widget file = C:\wamp64\www\alotholding_wp/wp-content/uploads/2023/12/demo-widgets-import-file_2023-12-14__07-39-44.json
+Customizer file = not defined!
+Redux files:
+ttm_business_options -> C:\wamp64\www\alotholding_wp/wp-content/themes/ttm-business/inc/demo-content/theme-options.json 
+
+
+---Importing widgets---
+Blog Sidebar Widget Area : 
+
+Block - No Title - Widget already exists
+Categories - Categories - Widget already exists
+Recent Posts - Recent Post - Widget already exists
+
+Footer - 1st Widget Area  : 
+
+Custom HTML - About TTM business - Imported
+Block - No Title - Imported
+
+Footer - 2nd Widget Area : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer - 3rd Widget Area : 
+
+Custom HTML - Contact Us - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: ttm_business_options finished successfully!
+
+---ocdi/after_import---
+

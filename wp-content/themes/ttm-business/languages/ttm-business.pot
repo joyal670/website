@@ -1,0 +1,1070 @@
+# Copyright (C) 2017 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TTM Business 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2023-05-23 16:07+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n:1,2;_nx:1,2;_n_noop:1,2;_nx_noop:1,2;"
+"translate_nooped_plural;esc_html__;esc_html_e;esc_html_x;esc_attr__;"
+"esc_attr_e;esc_attr_x;number_format_i18n;date_i18n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17 inc/redux-options/options/404.php:18
+msgid "404"
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:41
+msgid "Back to Home"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid "%1$s %2$s"
+msgid_plural "%1$s %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:42
+msgid "Comments"
+msgstr ""
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:84 comments.php:85
+msgid "Comment"
+msgstr ""
+
+#: comments.php:89
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:94
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: comments.php:105 comments.php:107
+msgid "Name"
+msgstr ""
+
+#: comments.php:111 comments.php:113
+msgid "Email"
+msgstr ""
+
+#: comments.php:117 comments.php:118
+msgid "Website"
+msgstr ""
+
+#: footer.php:34
+msgid "Copyright &copy; "
+msgstr ""
+
+#: footer.php:36
+msgid ". Powered by"
+msgstr ""
+
+#: footer.php:39
+msgid "TTM Business Theme"
+msgstr ""
+
+#: functions.php:59
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:60
+msgid "Footer Menu"
+msgstr ""
+
+#: header.php:22
+msgid "Skip to content"
+msgstr ""
+
+#: inc/bundled-plugins.php:53 inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/bundled-plugins.php:54 inc/tgmpa/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/bundled-plugins.php:55 inc/tgmpa/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/bundled-plugins.php:56 inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/bundled-plugins.php:58 inc/tgmpa/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/bundled-plugins.php:61 inc/tgmpa/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/bundled-plugins.php:64
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/bundled-plugins.php:67 inc/tgmpa/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/bundled-plugins.php:70 inc/tgmpa/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/bundled-plugins.php:73
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/bundled-plugins.php:76 inc/tgmpa/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/bundled-plugins.php:79 inc/tgmpa/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/bundled-plugins.php:82
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/bundled-plugins.php:85 inc/tgmpa/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/bundled-plugins.php:88 inc/tgmpa/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/bundled-plugins.php:91 inc/tgmpa/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/bundled-plugins.php:93 inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/bundled-plugins.php:94 inc/tgmpa/class-tgm-plugin-activation.php:394
+#: inc/tgmpa/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/bundled-plugins.php:95 inc/tgmpa/class-tgm-plugin-activation.php:395
+#: inc/tgmpa/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/bundled-plugins.php:96 inc/tgmpa/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/bundled-plugins.php:97 inc/tgmpa/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/bundled-plugins.php:98 inc/tgmpa/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/bundled-plugins.php:99 inc/tgmpa/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/hooks.php:121
+msgid "Page Settings"
+msgstr ""
+
+#: inc/hooks.php:137
+msgid "Disable Page Title"
+msgstr ""
+
+#: inc/redux-options/options/404.php:8
+msgid "404 Page"
+msgstr ""
+
+#: inc/redux-options/options/404.php:16
+msgid "Page Title"
+msgstr ""
+
+#: inc/redux-options/options/404.php:17
+msgid "Enter 404 page title."
+msgstr ""
+
+#: inc/redux-options/options/404.php:23
+msgid "404 Page Description"
+msgstr ""
+
+#: inc/redux-options/options/404.php:24
+msgid "Enter 404 page description."
+msgstr ""
+
+#: inc/redux-options/options/color-scheme-settings.php:8
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/redux-options/options/color-scheme-settings.php:10
+msgid "Specify website skin, dark and grey color"
+msgstr ""
+
+#: inc/redux-options/options/color-scheme-settings.php:16
+msgid "Select Skin Color"
+msgstr ""
+
+#: inc/redux-options/options/color-scheme-settings.php:23
+msgid "Select Primary Dark BG Color"
+msgstr ""
+
+#: inc/redux-options/options/color-scheme-settings.php:30
+msgid "Select Primary Grey BG Color"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:8
+msgid "Contact Information"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:16
+msgid "Facebook"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:17
+msgid "Twitter"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:18
+msgid "Dribbble"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:19
+msgid "Vimeo"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:20
+msgid "Pinterest"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:21
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:22
+msgid "Youtube"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:23
+msgid "Instagram"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:27
+msgid "Social info to display."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:28
+msgid "Arrange the fields you wanted to display."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:33
+msgid "Facebook Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:34
+msgid "Enter facebook url."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:39
+msgid "Twitter Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:40
+msgid "Enter twitter url."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:45
+msgid "Dribbble Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:46
+msgid "Enter dribbble url."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:51
+msgid "Vimeo Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:52
+msgid "Enter vimeo url."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:57
+#: inc/redux-options/options/contact-info.php:81
+msgid "Pinterest Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:58
+#: inc/redux-options/options/contact-info.php:82
+msgid "Enter pinterest url."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:63
+msgid "LinkedIn Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:64
+msgid "Enter linkedin url."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:69
+msgid "Youtube Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:70
+msgid "Enter youtube url."
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:75
+msgid "Instagram Url"
+msgstr ""
+
+#: inc/redux-options/options/contact-info.php:76
+msgid "Enter instagram url."
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:50
+msgid "Footer Heading Color"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:58
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:66
+msgid "Footer Link Color"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:73
+msgid "Footer Background"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:74
+msgid "Set footer background color."
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:80
+msgid "Footer Text Left"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:81
+msgid "Enter the copyright left text"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:87
+msgid "Footer Text Right"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:88
+msgid "Enter the copyright right Text"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:93
+msgid "Footer Copyright Background"
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:94
+msgid "Set footer background color for copyright area."
+msgstr ""
+
+#: inc/redux-options/options/footer-settings.php:101
+msgid "Footer Copyright Text Color"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:25
+msgid "Header Height (in pixel)"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:26
+msgid "You can set height of header area from here"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:35
+msgid "Select Header Background Color"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:42
+msgid "Show Search Button"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:44
+msgid "Show search button in header."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:45
+#: inc/redux-options/options/page-title-settings.php:17
+msgid "On"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:46
+#: inc/redux-options/options/page-title-settings.php:18
+msgid "Off"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:51
+msgid "Header Button"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:52
+msgid "Enter header button title."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:57
+msgid "Header Button link"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:58
+msgid "Enter header button link."
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:64
+msgid "Logo Image"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:66
+msgid ""
+"Upload image that will be used as logo for the site NOTE: Upload image that "
+"will be used as logo for the site"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:71
+msgid "Logo Max Height"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:75
+msgid "If you feel your logo looks small than increase this and adjust it"
+msgstr ""
+
+#: inc/redux-options/options/header-settings.php:84
+msgid "Header Menu Position"
+msgstr ""
+
+#: inc/redux-options/options/page-title-settings.php:15
+msgid "Show Titlebar"
+msgstr ""
+
+#: inc/redux-options/options/page-title-settings.php:23
+msgid "Titlebar Height"
+msgstr ""
+
+#: inc/redux-options/options/page-title-settings.php:24
+msgid "Set height for the page titlebar."
+msgstr ""
+
+#: inc/redux-options/options/page-title-settings.php:36
+msgid "Titlebar Background Image"
+msgstr ""
+
+#: inc/redux-options/options/page-title-settings.php:37
+msgid "Set page background image."
+msgstr ""
+
+#: inc/redux-options/options/page-title-settings.php:48
+msgid "Titlebar Background Color"
+msgstr ""
+
+#: inc/redux-options/options/page-title-settings.php:60
+msgid "Titlebar Text Color"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:8
+msgid "Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:16
+msgid "Body Font"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:36
+msgid "H1 Headers Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:37
+msgid "Select font family, size etc. for H1 heading tag."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:58
+msgid "H2 Headers Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:59
+msgid "Select font family, size etc. for H2 heading tag."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:79
+msgid "H3 Headers Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:80
+msgid "Select font family, size etc. for H3 heading tag."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:99
+msgid "H4 Headers Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:100
+msgid "Select font family, size etc. for H4 heading tag."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:119
+msgid "H5 Headers Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:120
+msgid "Select font family, size etc. for H5 heading tag."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:139
+msgid "H6 Headers Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:140
+msgid "Select font family, size etc. for H6 heading tag."
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:159
+msgid "Menu Typography"
+msgstr ""
+
+#: inc/redux-options/options/typography-settings.php:160
+msgid "Select font family, size etc. for Main menu heading tag."
+msgstr ""
+
+#: inc/redux-options/redux-config.php:24 inc/redux-options/redux-config.php:25
+msgid "Theme Options"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:393
+#: inc/tgmpa/class-tgm-plugin-activation.php:912
+#: inc/tgmpa/class-tgm-plugin-activation.php:2618
+#: inc/tgmpa/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1019
+#: inc/tgmpa/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1206
+#: inc/tgmpa/class-tgm-plugin-activation.php:3033
+msgid "and"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2473
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tools.php:15
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/tools.php:18
+msgid "Older Comments"
+msgstr ""
+
+#: inc/tools.php:22
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/tools.php:58
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/tools.php:63
+msgid "says:"
+msgstr ""
+
+#: inc/tools.php:67
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/tools.php:67
+msgid "(Edit)"
+msgstr ""
+
+#: inc/tools.php:123 inc/tools.php:132
+msgid ", "
+msgstr ""
+
+#: inc/tools.php:148 inc/tools.php:150
+msgid "comments"
+msgstr ""
+
+#: inc/tools.php:149
+msgid "comment"
+msgstr ""
+
+#: inc/tools.php:216
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: inc/widgets.php:16
+msgid "Blog Sidebar Widget Area"
+msgstr ""
+
+#: inc/widgets.php:18
+msgid "This is sidebar for blog."
+msgstr ""
+
+#: inc/widgets.php:27
+msgid "Page Sidebar Widget Area"
+msgstr ""
+
+#: inc/widgets.php:29
+msgid "This is sidebar for pages."
+msgstr ""
+
+#: inc/widgets.php:41
+msgid "Footer - 1st Widget Area "
+msgstr ""
+
+#: inc/widgets.php:43
+msgid "This is first footer widget area for footer."
+msgstr ""
+
+#: inc/widgets.php:53
+msgid "Footer - 2nd Widget Area"
+msgstr ""
+
+#: inc/widgets.php:55
+msgid "This is second footer widget area for footer."
+msgstr ""
+
+#: inc/widgets.php:65
+msgid "Footer - 3rd Widget Area"
+msgstr ""
+
+#: inc/widgets.php:67
+msgid "This is third footer widget area for footer."
+msgstr ""
+
+#: inc/widgets.php:77
+msgid "Footer - 4th Widget Area"
+msgstr ""
+
+#: inc/widgets.php:79
+msgid "This is fourth footer widget area for footer."
+msgstr ""
+
+#: template-parts/author-bio.php:18
+msgid "Author:"
+msgstr ""
+
+#: template-parts/author-bio.php:23
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:34
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:41
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content-search.php:53
+#: template-parts/content.php:51
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-page.php:36
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: template-parts/content-search.php:32 template-parts/content.php:31
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/header/elements/search.php:16
+msgid "Type Word Then Enter.."
+msgstr ""
+
+#: template-parts/page-title/page-title.php:32
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/page-title/page-title.php:34
+msgid "Blog"
+msgstr ""

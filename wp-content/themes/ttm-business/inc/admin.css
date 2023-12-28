@@ -1,0 +1,84 @@
+.redux-sidebar .redux-group-menu li a {
+    display: block;
+    padding: 15px 4px 15px 14px;
+    background: #e0e0e0;
+    background: 0 0;
+    border-width: 1px 0;
+    border-style: solid;
+    border-bottom-color: #E7E7E7;
+    border-top-color: #F9F9F9;
+    opacity: 1;
+    color: #333;
+    font-weight: 700;
+    text-decoration: none;
+    -webkit-transition: none;
+    transition: none;
+    outline: none;
+    box-shadow: none;
+}
+#redux-sticky .button {
+    padding: 0 20px;
+    margin: 0 5px;
+    float: left;
+    border-radius: 30px;
+    border-width: 2px;
+}
+
+@media (min-width: 1120px) {
+.ocdi__gl-item {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 calc(25% - 30px);
+    flex: 0 0 calc(25% - 30px);
+}
+}
+@media (min-width: 640px) {
+.ocdi__gl-navigation li {
+    margin: 0 8px;
+}
+}
+.ocdi__gl-item-title {
+    text-transform: capitalize;
+}
+.ocdi-imported-footer .button.button-primary.button-hero:first-child {
+    display: none !important;
+}
+.appearance_page_one-click-demo-import .ocdi__theme-about {
+	 display: none !important;
+}
+
+.ttm-premium-upgrade {
+	background-image: linear-gradient(to right, #5915ab , #fa2f69 ) !important;
+    padding: 20px 30px 30px;
+	margin-bottom:30px;
+}
+.ttm-premium-upgrade h2,
+.ttm-premium-upgrade h1 {
+	color:#fff;
+}
+.ttm-premium-upgrade h1 {
+	font-size:30px;
+	line-height:40px;
+	margin-bottom:10px;
+	margin-top: 0;
+}
+.ttm-premium-upgrade h2 {
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0px;
+    padding-bottom: 10px;
+    font-weight: 400;
+}
+
+.ttm-premium-upgrade a.banner-button {
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #212121;
+    background-color: #ffb100;
+    border-radius: 8px 8px 8px 8px;
+    padding: 12px 24px;
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+	margin-right:25px;
+}
